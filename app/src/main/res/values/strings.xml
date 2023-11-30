@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Examen</string>
+    <string name="button_add">Agregar Lugar</string>
+    <string name="name_place">Nombre del lugar</string>
+    <string name="order">Orden</string>
+    <string name="image">Imagen</string>
+    <string name="latitude">Latitud</string>
+    <string name="longitude">Longitud</string>
+    <string name="cost_accommodation">Costo Alojamiento</string>
+    <string name="cost_transportation">Costo Transporte</string>
+    <string name="comments">Comentarios</string>
+    <string name="button_modificar">Modificar</string>
+    <string name="button_cancel">Cancelar</string>
+    <string name="button_location">Elegir Ubicacion</string>
+    <string name="accommodation">Costo Alojamiento: %s %s </string>
+    <string name="transportation">Costo Transporte: %s %s </string>
+    <string name="comments_details">Comentarios: %s %s</string>
+    <string name="button_back">Volver</string>
+    <string name="cost_night">Costo x Noche: %1$s</string>
+    <string name="transfer">Traslado: %1$s</string>
+    <string name="place_name">%1$s</string>
+
+
+</resources>

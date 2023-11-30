@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Examen</string>
+    <string name="button_add">Add Place</string>
+    <string name="name_place">Name place</string>
+    <string name="order">Order</string>
+    <string name="image">Image</string>
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+    <string name="cost_accommodation">Accommodation Cost</string>
+    <string name="cost_transportation">Transportation Cost</string>
+    <string name="comments">Comments</string>
+    <string name="button_modificar">Change</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="button_location">Choose Location</string>
+    <string name="accommodation">Cost Accommodation: %s %s </string>
+    <string name="transportation">Cost Transportation: %s %s </string>
+    <string name="comments_details">Comments: %s %s</string>
+    <string name="button_back">Back</string>
+    <string name="cost_night">Cost per Night: %1$s</string>
+    <string name="transfer">Transfer: %1$s</string>
+    <string name="place_name">%1$s</string>
+
+
+</resources>
